@@ -1,16 +1,32 @@
 
 # Hi , I'm Anagha Deogaonkar
 
-## 💼 Profession / Current Role
-**Analyst (Business Analytics & Information Systems)**  
-Currently pursuing my Master of Science in Information Systems at the University of Memphis (Graduating Dec 2025).
+I’m an Analyst with hands-on experience in SAP SD/OTC business processes, passionate about turning complex data and workflows into actionable insights. Combining my knowledge of enterprise processes with analytics tools like Python, SQL, Tableau, and Power BI, I build dashboards, predictive models, and ERP solutions that help organizations make smarter, data-driven decisions. I thrive at the intersection of business processes and analytics, where understanding the system and the numbers together creates practical, impactful solutions.
+
+---
+## 🔧 About Me
+MS in Information Systems @ University of Memphis (Class of 2025)
+
+Former SAP SD/OTC & Analytics Consultant | 3+ years of experience in business processes and data analytics
+
+B.Tech in Electronics & Telecommunications | Focused on Data Analysis
+
+Driven by a passion for turning complex business processes and data into actionable, impactful solutions
 
 ---
 
 ## 🔧 Top Skills & Technologies
-- **Data Analytics & Engineering:** SQL (Advanced), Python, R, SAS, Alteryx, Microsoft Azure, Google BigQuery, Oracle, Teradata  
-- **Business Intelligence & Visualization:** Tableau, Power BI, TIBCO Spotfire, QlikView, Looker  
-- **Process & Consulting:** SAP SD (Order-to-Cash), Digital Transformation, Project Management, Agile & Scrum, Change Management  
+**SAP ERP Tools**: ABAP, HANA, ECC, Sales & Distribution (SD), Order-to-Cash (OTC), Materials Management (MM), Production Planning & Quality Management (PPQM), Finance & Costing (FI-CO), BASIS module
+
+**Data Analytics & Programming**: SQL (Advanced), Python, R, SAS, Alteryx, Advanced Excel (VBA, Macros, VLOOKUP, Pivot Tables), Machine Learning, Natural Language Processing
+
+**Business Intelligence & Visualization**: Tableau, Power BI, TIBCO Spotfire, QlikView, Looker
+
+**Cloud & Big Data**: Microsoft Azure, Google Cloud (BigQuery), Oracle, Teradata
+
+**Automation & Tools**: UiPath, Playwright, Streamlit
+
+**Leadership & Consulting**: Technology & Strategy Consulting, Project Management, Client Retention 
 
 
 ---
