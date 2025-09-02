@@ -7,7 +7,7 @@ I’m an Analyst with hands-on experience in SAP SD/OTC business processes, pass
 ## 🔧 About Me
 MS in Information Systems @ University of Memphis (Class of 2025)
 
-Former SAP SD/OTC & Analytics Consultant | 3+ years of experience in business processes and data analytics
+Former SAP SD/OTC & Analytics Consultant @PwC| 3+ years of experience in business processes and data analytics
 
 B.Tech in Electronics & Telecommunications | Focused on Data Analysis
 
