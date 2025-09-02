@@ -45,6 +45,11 @@ Driven by a passion for turning complex business processes and data into actiona
 
 [SAP ERP Essential Training](https://www.linkedin.com/learning/certificates/d1eb7e331aaa84b6ec73118cfdd3b1bf1d298b13af53faee060bfe0de0b6847a?u=74654258)  
 
+### 🔹 HackerRank (SQL)
+[SQL(Advanced)](https://www.hackerrank.com/certificates/acd9cef0b383)
+[SQL(Intermediate)](https://www.hackerrank.com/certificates/c290bd0cf473)
+[SQL(Basic)](https://www.hackerrank.com/certificates/b7cfbc35b438)
+
 ### 🔹 Analytics  
 [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/65c7688a81aa9857d7e7b2eb61b3d99774fe33242cced7e0a6e8dbe55e79af33?u=74654258)
 
@@ -57,6 +62,9 @@ Driven by a passion for turning complex business processes and data into actiona
 [Introduction to PostgreSQL](https://www.linkedin.com/learning/certificates/c04641a387c18911b74523888f0d2d0720acfc8fdf52d5e5880ef5dcbc0e0187?u=74654258)
 
 [Tableau 2024.1: Essential Training](https://www.linkedin.com/learning/certificates/63d36b4da4b2f068a34f543196d39a126406b7f8f0926084be6824cf38952eb3?u=74654258)
+
+
+
 
 ---
 ## ✨ Other Personal Touches
