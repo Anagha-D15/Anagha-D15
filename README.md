@@ -47,7 +47,9 @@ Driven by a passion for turning complex business processes and data into actiona
 
 ### 🔹 HackerRank (SQL)
 [SQL(Advanced)](https://www.hackerrank.com/certificates/acd9cef0b383)
+
 [SQL(Intermediate)](https://www.hackerrank.com/certificates/c290bd0cf473)
+
 [SQL(Basic)](https://www.hackerrank.com/certificates/b7cfbc35b438)
 
 ### 🔹 Analytics  
