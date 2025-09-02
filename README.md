@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Anagha-D15/Anagha-D15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Anagha Deogaonkar
 
-Here are some ideas to get you started:
+## 💼 Profession / Current Role
+**Analyst (Business Analytics & Information Systems)**  
+Currently pursuing my Master of Science in Information Systems at the University of Memphis (Graduating Dec 2025).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Top Skills & Technologies
+- **Data Analytics & Engineering:** SQL (Advanced), Python, R, SAS, Alteryx, Microsoft Azure, Google BigQuery, Oracle, Teradata  
+- **Business Intelligence & Visualization:** Tableau, Power BI, TIBCO Spotfire, QlikView, Looker  
+- **Process & Consulting:** SAP SD (Order-to-Cash), Digital Transformation, Project Management, Agile & Scrum, Change Management  
+
+
+---
+
+## 🔗 Social Links
+- [LinkedIn](https://www.linkedin.com/in/anagha-deogaonkar/)  
+- [GitHub](https://github.com/Anagha-D15)  
+
+---
+
+## ✨ Other Personal Touches
+- 🏆 Recipient of 3 consecutive **PwC Star Awards** and 3 **Top Employee Awards** at University of Memphis  
+- 💬 Favorite Quote: *“Data will talk to you if you’re willing to listen.”*  
+
+---
+⭐️ From [Anagha-D15](https://github.com/Anagha-D15)
