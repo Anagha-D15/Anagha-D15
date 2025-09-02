@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm Anagha Deogaonkar
+# Hi , I'm Anagha Deogaonkar
 
 ## 💼 Profession / Current Role
 **Analyst (Business Analytics & Information Systems)**  
