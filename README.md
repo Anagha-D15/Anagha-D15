@@ -33,7 +33,9 @@ Driven by a passion for turning complex business processes and data into actiona
 
 ## 🔗 Social Links
 - [LinkedIn](https://www.linkedin.com/in/anagha-deogaonkar/)  
-- [GitHub](https://github.com/Anagha-D15)  
+- [GitHub](https://github.com/Anagha-D15)
+- [HackerRank](https://www.hackerrank.com/profile/anagha_deogaonk1)
+- [LeetCode](https://leetcode.com/studyplan/top-sql-50/)
 
 ---
 ## 📜 Certifications  
