@@ -1,13 +1,13 @@
 
 # Hi , I'm Anagha Deogaonkar
 
-I’m an Analyst with hands-on experience in SAP SD/OTC business processes, passionate about turning complex data and workflows into actionable insights. Combining my knowledge of enterprise processes with analytics tools like Python, SQL, Tableau, and Power BI, I build dashboards, predictive models, and ERP solutions that help organizations make smarter, data-driven decisions. I thrive at the intersection of business processes and analytics, where understanding the system and the numbers together creates practical, impactful solutions.
+I’m a Data Analytics Consultant with hands-on experience turning complex financial data and workflows into actionable insights. Combining my knowledge of enterprise processes with analytical tools like Python, SQL, Tableau, and Power BI, I build dashboards, and predictive models, that help organizations make smarter, data-driven decisions. I thrive at the intersection of business processes and analytics, where understanding the system and the numbers together creates practical, impactful solutions.
 
 ---
 ## 🔧 About Me
 MS in Information Systems @ University of Memphis (Class of 2025)
 
-Former SAP SD/OTC & Analytics Consultant @PwC | 4+ years of experience in business processes and data analytics
+Former Data Analytics Consultant @PwC | 3 years of experience in business processes and data analytics
 
 B.Tech in Electronics & Telecommunications | Focused on Data Analysis
 
@@ -16,8 +16,6 @@ Driven by a passion for turning complex business processes and data into actiona
 ---
 
 ## 🔧 Top Skills & Technologies
-**SAP ERP Tools**: ABAP, HANA, ECC, Sales & Distribution (SD), Order-to-Cash (OTC), Materials Management (MM), Production Planning & Quality Management (PPQM), Finance & Costing (FI-CO), BASIS module
-
 **Data Analytics & Programming**: SQL (Advanced), Python, R, SAS, Alteryx, Advanced Excel (VBA, Macros, VLOOKUP, Pivot Tables), Machine Learning, Natural Language Processing
 
 **Business Intelligence & Visualization**: Tableau, Power BI, TIBCO Spotfire, QlikView, Looker
@@ -25,6 +23,8 @@ Driven by a passion for turning complex business processes and data into actiona
 **Cloud & Big Data**: Microsoft Azure, Google Cloud (BigQuery), Oracle, Teradata
 
 **Automation & Tools**: UiPath, Playwright, Streamlit
+
+**SAP ERP Tools**: Sales & Distribution (SD), Order-to-Cash (OTC), Finance & Costing (FI-CO)
 
 **Leadership & Consulting**: Technology & Strategy Consulting, Project Management, Client Retention 
 
@@ -39,13 +39,6 @@ Driven by a passion for turning complex business processes and data into actiona
 
 ---
 ## 📜 Certifications  
-
-### 🔹 SAP  
-[SAP S/4HANA Essential Training](https://www.linkedin.com/learning/certificates/2725e9e0765f1c5362f7cc773aa03954870710d2f0b673001ac1e4693d5a16c8?u=74654258) 
-
-[Learning SAP Sales and Distribution (SD Module)](https://www.linkedin.com/learning/certificates/ea4e76530da9b288db108324f5339b84960fc3d62a03ae865c1a1f7e0d22409e?u=74654258)
-
-[SAP ERP Essential Training](https://www.linkedin.com/learning/certificates/d1eb7e331aaa84b6ec73118cfdd3b1bf1d298b13af53faee060bfe0de0b6847a?u=74654258)  
 
 ### 🔹 HackerRank (SQL)
 [SQL(Advanced)](https://www.hackerrank.com/certificates/acd9cef0b383)
@@ -66,7 +59,6 @@ Driven by a passion for turning complex business processes and data into actiona
 [Introduction to PostgreSQL](https://www.linkedin.com/learning/certificates/c04641a387c18911b74523888f0d2d0720acfc8fdf52d5e5880ef5dcbc0e0187?u=74654258)
 
 [Tableau 2024.1: Essential Training](https://www.linkedin.com/learning/certificates/63d36b4da4b2f068a34f543196d39a126406b7f8f0926084be6824cf38952eb3?u=74654258)
-
 
 
 
